@@ -9,7 +9,7 @@ module com.google.gson {
 }
 
 
-/* Location:              /home/khang/Downloads/tlaucher/Tlaucher.jar-decompiled/!/module-info.class
+/* Location:              
  * Java compiler version: 9 (53.0)
  * JD-Core Version:       1.1.3
  */
